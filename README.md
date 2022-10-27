@@ -3,7 +3,7 @@
 - 🌱 Estou aprendendo mais sobre vue.js
 - 👯 Estou procurando oportunidades para colaborar em projetos que reforcem minha stack atual
 - 🤔 Toda ajuda e sugestão para melhoria de código dos repositórios são bem-vindas
-- 
+
 <div align="center">
   <a href="https://github.com/gmdiniz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gmdiniz&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
