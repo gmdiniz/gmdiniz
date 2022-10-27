@@ -1,5 +1,6 @@
-## Oiii eu sou o Gabriel, desenvolvedor de software fullstack!
-- 🔭 Estou atualmente trabalhando em meus repositorios meetings-restapi e meetings-client, relacionados ao meu projeto de conclusão de curso
+## Oiii eu sou o Gabriel, desenvolvedor de software fullstack! Atualmente trabalhando na @arcotech-services, e morando no interior de São Paulo, Brasil
+- 💪 Tenho forte esperiencia em desenvolvimento de aplicações web utilizando, principalmente, python e javascript
+- 🔭 No tempo livre atualmente trabalhando em meus repositorios meetings-restapi e meetings-client, relacionados ao meu projeto de conclusão de curso
 - 🌱 Estou aprendendo mais sobre vue.js
 - 👯 Estou procurando oportunidades para colaborar em projetos que reforcem minha stack atual
 - 🤔 Toda ajuda e sugestão para melhoria de código dos repositórios são bem-vindas
