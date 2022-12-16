@@ -1,4 +1,4 @@
-## Oiii eu sou o Gabriel, desenvolvedor de software fullstack! Atualmente trabalhando na @arcotech-services, e morando no interior de São Paulo, Brasil
+## Oiii eu sou o Gabriel, desenvolvedor de software fullstack! Atualmente morando no interior de São Paulo, Brasil
 - 💪 Tenho forte esperiencia em desenvolvimento de aplicações web utilizando, principalmente, python e javascript
 - 🔭 No tempo livre trabalhando em meus repositorios meetings-restapi e meetings-client, relacionados ao meu projeto de conclusão de curso
 - 🌱 Estou aprendendo mais sobre vue.js
