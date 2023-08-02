@@ -1,7 +1,7 @@
-## Oiii eu sou o Gabriel, desenvolvedor de software fullstack! Atualmente morando no interior de São Paulo, Brasil
+## Oiii eu sou o Gabriel, desenvolvedor de software fullstack atuando na @PasseiDireto! Atualmente morando no interior de São Paulo, Brasil
 - 💪 Tenho forte esperiencia em desenvolvimento de aplicações web utilizando, principalmente, python e javascript
-- 🔭 No tempo livre trabalhando em meus repositorios meetings-restapi e meetings-client, relacionados ao meu projeto de conclusão de curso
-- 🌱 Estou aprendendo mais sobre vue.js
+- 🔭 No tempo livre trabalhando em meu repositório node-webrtc-meeting, relacionados ao meu projeto de conclusão de curso
+- 🌱 Estou aprendendo mais sobre vue.js - typescript e node.js
 - 👯 Estou procurando oportunidades para colaborar em projetos que reforcem minha stack atual
 - 🤔 Toda ajuda e sugestão para melhoria de código dos repositórios são bem-vindas
 ##
