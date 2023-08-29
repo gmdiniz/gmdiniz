@@ -10,6 +10,12 @@
   <img src="https://github.com/gmdiniz/gmdiniz/assets/45233604/5e551a22-8dad-44a8-91a3-e5f68e805f85" alt="animated" />
 </p>
 
+<div align="center">
+  <a href="http://www.github.com/gmdiniz"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=gmdiniz&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117&theme=react&hide_border=true&show_icons=true"/></a>
+  <a href="https://github.com/gmdiniz"><img width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmdiniz&langs_count=10&count_private=false&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=0891b2&text_color=ffffff&icon_color=0891b2&locale=en&custom_title=Top%20%Languages"/></a>
+  <a href="http://www.github.com/gmdiniz"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=gmdiniz&show_icons=true&count_private=true&theme=react&hide_border=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117" width="100%"/></a>
+</div>
+
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="gmdiniz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
