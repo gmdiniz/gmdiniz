@@ -10,12 +10,6 @@
   <img src="https://github.com/gmdiniz/gmdiniz/assets/45233604/5e551a22-8dad-44a8-91a3-e5f68e805f85" alt="animated" />
 </p>
 
-<div align="center">
-  <a href="https://github.com/gmdiniz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gmdiniz&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmdiniz&layout=compact&langs_count=7&theme=codeSTACKr"/>
-</div>
-
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="gmdiniz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
